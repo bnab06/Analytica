@@ -1,0 +1,1 @@
+def sign(): return 'Signature placeholder'

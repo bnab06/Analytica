@@ -1,0 +1,1 @@
+def import_data(): return 'Data importer placeholder'

@@ -1,0 +1,1 @@
+def calculate(): return 'Density calculation placeholder'

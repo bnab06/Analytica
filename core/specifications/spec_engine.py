@@ -1,0 +1,1 @@
+def spec(): return 'Spec engine placeholder'
