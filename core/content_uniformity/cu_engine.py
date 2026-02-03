@@ -1,0 +1,1 @@
+def calculate(): return 'CU calculation placeholder'

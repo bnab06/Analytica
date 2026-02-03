@@ -1,0 +1,1 @@
+def validate(): return 'Method Validation placeholder'

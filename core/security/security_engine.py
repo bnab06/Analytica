@@ -1,0 +1,1 @@
+def check_user(): return 'Security check placeholder'

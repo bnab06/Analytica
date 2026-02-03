@@ -1,0 +1,1 @@
+def calculate(): return 'LOD calculation placeholder'

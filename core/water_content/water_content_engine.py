@@ -1,0 +1,1 @@
+def calculate(): return 'Water Content calculation placeholder'
